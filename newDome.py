@@ -16,7 +16,7 @@ import zipfile
 import requests
 from mathutils import Vector
 
-SKETCHFAB_TOKEN = "18b726d5e4dc4102a4cfff48a87929bc"
+SKETCHFAB_TOKEN = ""
 
 # --------------------------- Проперти сцены ---------------------------
 def register_props():
@@ -417,4 +417,5 @@ def unregister():
     unregister_props()
 
 if __name__ == "__main__":
+
     register()
