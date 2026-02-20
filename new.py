@@ -19,7 +19,7 @@ from mathutils import Vector
 # ---------------------------
 # Sketchfab API Token
 # ---------------------------
-SKETCHFAB_TOKEN = "18b726d5e4dc4102a4cfff48a87929bc"
+SKETCHFAB_TOKEN = ""
 
 # ---------------------------
 # Свойства сцены
